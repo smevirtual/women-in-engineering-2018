@@ -9,7 +9,7 @@ and have played [vital roles in early revolutionary technologies](https://en.wik
 Current data suggests that investing in women-managed technology businesses can provide
 a [much better return on investment](https://www.entrepreneur.com/article/309555).
 
-When it comes to addressing the skills gap and enhancing the innovativeness of
+When it comes to addressing the skills gap and enhancing the progress of
 manufacturing, we need everyone involved.
 
 However, women continue to be [drastically underrepresented in STEM-related fields](https://www.higheredtoday.org/2015/03/03/where-are-the-women-in-stem/).
@@ -18,9 +18,6 @@ One of the reasons cited is the [lack of visible women role models in STEM](http
 Indeed, such role models are out there. Everywhere. This web application seeks to
 elevate these role models - for the benefit of all of us by encouraging more women
 to join a STEM-related field of study (particularity in engineering and manufacturing).
-
-[SME Virtual Network](https://www.smevirtual.com) events and other resources in
-anticipation of [Manufacturing Day](https://www.mfgday.com/) 2018.
 
 ### About the SME Virtual Network
 
